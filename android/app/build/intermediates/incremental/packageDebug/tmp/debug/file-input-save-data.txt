@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Dec 17 10:06:39 ICT 2019
+#Tue Dec 17 11:23:43 ICT 2019
 56.path=lib/armeabi-v7a/libreactnativeblob.so
 5.base=/phuongtt/apps/learnReactNative/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 42.base=/phuongtt/apps/learnReactNative/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
